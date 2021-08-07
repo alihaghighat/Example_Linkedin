@@ -1,0 +1,23 @@
+[17-Jul-2021 14:41:31 Asia/Tehran] PHP Warning:  include(confing.php): failed to open stream: No such file or directory in /home/projec37/database.project-web-shu.ir/function/addPost.php on line 2
+[17-Jul-2021 14:41:31 Asia/Tehran] PHP Warning:  include(confing.php): failed to open stream: No such file or directory in /home/projec37/database.project-web-shu.ir/function/addPost.php on line 2
+[17-Jul-2021 14:41:31 Asia/Tehran] PHP Warning:  include(): Failed opening 'confing.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/projec37/database.project-web-shu.ir/function/addPost.php on line 2
+[17-Jul-2021 15:57:03 Asia/Tehran] PHP Warning:  move_uploaded_file(../postPhotos/WhatsApp Image 2020-10-12 at 12.33.52 AM (1).jpeg): failed to open stream: No such file or directory in /home/projec37/database.project-web-shu.ir/function/addPost.php on line 23
+[17-Jul-2021 15:57:03 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWG5TKV' to '../postPhotos/WhatsApp Image 2020-10-12 at 12.33.52 AM (1).jpeg' in /home/projec37/database.project-web-shu.ir/function/addPost.php on line 23
+[17-Jul-2021 20:22:58 Asia/Tehran] PHP Warning:  include(../co.php): failed to open stream: No such file or directory in /home/projec37/database.project-web-shu.ir/function/addPost.php on line 2
+[17-Jul-2021 20:22:58 Asia/Tehran] PHP Warning:  include(../co.php): failed to open stream: No such file or directory in /home/projec37/database.project-web-shu.ir/function/addPost.php on line 2
+[17-Jul-2021 20:22:58 Asia/Tehran] PHP Warning:  include(): Failed opening '../co.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/projec37/database.project-web-shu.ir/function/addPost.php on line 2
+[19-Jul-2021 21:11:07 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/projec37/database.project-web-shu.ir/function/login.php on line 14
+[19-Jul-2021 21:12:35 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/projec37/database.project-web-shu.ir/function/login.php on line 14
+[19-Jul-2021 21:12:54 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/projec37/database.project-web-shu.ir/function/login.php on line 14
+[19-Jul-2021 21:13:39 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/projec37/database.project-web-shu.ir/function/login.php on line 14
+[19-Jul-2021 21:14:20 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/projec37/database.project-web-shu.ir/function/login.php on line 14
+[19-Jul-2021 21:20:11 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/projec37/database.project-web-shu.ir/function/login.php on line 15
+[19-Jul-2021 21:20:38 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/projec37/database.project-web-shu.ir/function/login.php on line 14
+[24-Jul-2021 12:39:28 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/projec37/database.project-web-shu.ir/confing.php on line 83
+[24-Jul-2021 12:39:29 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/projec37/database.project-web-shu.ir/confing.php on line 83
+[24-Jul-2021 12:41:13 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/projec37/database.project-web-shu.ir/confing.php on line 83
+[24-Jul-2021 12:41:13 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/projec37/database.project-web-shu.ir/confing.php on line 83
+[24-Jul-2021 12:41:18 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/projec37/database.project-web-shu.ir/confing.php on line 83
+[24-Jul-2021 12:41:21 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/projec37/database.project-web-shu.ir/confing.php on line 83
+[24-Jul-2021 12:41:27 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/projec37/database.project-web-shu.ir/confing.php on line 83
+[24-Jul-2021 12:42:57 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/projec37/database.project-web-shu.ir/confing.php on line 83
